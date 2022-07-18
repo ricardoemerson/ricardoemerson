@@ -20,7 +20,6 @@ Canal Youtube: https://bit.ly/35qXyP3
 #### Contribuições:
 
 Extensões para o Visual Studio Code:
-https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.create-flutter-widgets-and-classes
 https://marketplace.visualstudio.com/publishers/ricardo-emerson
 
 Gem para Ruby on Rails:
@@ -31,7 +30,8 @@ https://atom.io/packages/yaml-path-copy
 
 ![GitHub followers](https://img.shields.io/github/followers/ricardoemerson?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/ricardoemerson?style=social)
-
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_UuIxnjQ5yLiT-UGSj774A?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_UuIxnjQ5yLiT-UGSj774A?style=social)
 
 ### Github Stats
 
